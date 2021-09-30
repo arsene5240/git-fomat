@@ -3,9 +3,9 @@
 ### Github Rules
 |              | 規範方式   | 舉例        | 補充說明 |
 | ------------ | ---------- | ----------- | -------- |
-| Repositories | Kebab Case | spinal-case | lower    |
-| Folders      | Snake Case | spinal_case | lower    |
-| Files        | Snake Case | spinal_case | lower    |
+| Repositories | Kebab Case | spinal-case | lower case   |
+| Folders      | Snake Case | spinal_case | lower case   |
+| Files        | Snake Case | spinal_case | lower case   |
 
 ### Git Commit Message Rules
 |        | 說明          | 舉例                  |
@@ -17,9 +17,21 @@
 | Perf   | 優化效能      | perf:優化 urc 效能    |
 | Revert | 撤回版本      | revert:撤回 1.2 版本  |
 
+### Python
+|              | 規範方式   | 舉例        | 補充說明 |
+| ------------ | ---------- | ----------- | -------- |
+| Class | Pascal Case | SpinalCase | 英文單字開頭大寫   |
+| Variable | Snake Case | spinal_case | lower case   |
+| Function | Snake Case | spinal_case | lower case   |
 
-
-
-
-
+### R
+|              | 規範方式   | 舉例        | 補充說明 |
+| ------------ | ---------- | ----------- | -------- |
+| Comments | single # | # Replace | instead of ##   |
+| Variable | Snake Case | spinal_case | lower case   |
+| Function | Snake Case | spinal_case | lower case   |
+| String | Double quotes | "hello" |  instead of 'hello'   |
+| Booling | Complete | TRUE/FALSE | instead of T/F   |
+| Variable Assignment | <- | x <- 1 | instead of =   |
+| Function Parameter Assignment | = | rpart(formula = Class.) | instead of <-   |
 
