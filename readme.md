@@ -35,3 +35,14 @@
 | Variable Assignment | <- | x <- 1 | instead of =   |
 | Function Parameter Assignment | = | rpart(formula = Class.) | instead of <-   |
 
+
+### Git
+- commit 修正最近一次的
+git commit --amend -m "Welcome To Facebook"
+
+### SQL
+- 改本機端密碼
+set password for 'root'@localhost = 'xxxx';
+### Mac 操作快捷鍵
+- 顯示隱藏資料夾：com + shift + .
+- Finder 直接找資料路徑：com + shift + g
