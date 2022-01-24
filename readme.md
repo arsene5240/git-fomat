@@ -20,6 +20,7 @@
 ### Python
 |              | 規範方式   | 舉例        | 補充說明 |
 | ------------ | ---------- | ----------- | -------- |
+| Comments | single # | # Replace | instead of ##   |
 | Class | Pascal Case | SpinalCase | 英文單字開頭大寫   |
 | Variable | Snake Case | spinal_case | lower case   |
 | Function | Snake Case | spinal_case | lower case   |
