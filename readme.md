@@ -24,7 +24,8 @@
 | Class | Pascal Case | SpinalCase | 英文單字開頭大寫   |
 | Variable | Snake Case | spinal_case | lower case   |
 | Function | Snake Case | spinal_case | lower case   |
-
+| Parameter(in func) | Snake Case | spinal_case | lower case   |
+| Constant | Snake Case | SPINAL_CASE | upper case   |
 ### R
 |              | 規範方式   | 舉例        | 補充說明 |
 | ------------ | ---------- | ----------- | -------- |
